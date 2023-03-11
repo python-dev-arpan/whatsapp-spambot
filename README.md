@@ -1,4 +1,4 @@
-# whatsapp_spambot
+# whatsapp-spambot
 Spam your friends with this amazing spamming tool! Applicable for both individual and group chats.
 
 ## How to use
